@@ -1,7 +1,7 @@
 export const Hero =() => {
     return (
       <div className="relative">
-        <div className="bg-olive-600 text-white text-center py-2">
+        <div className="bg-olive-600 text-black text-center py-2">
           <p>To know more about the AI, click <a href="#" className="underline">HERE</a></p>
           <section className="relative h-96">
           
