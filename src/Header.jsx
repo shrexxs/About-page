@@ -1,6 +1,6 @@
 export const Header = () =>{
     return (
-      <header className="bg-gray-900 text-white p-4">
+      <header className="bg-[#311e1b] text-white p-4">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-xl font-bold">National Council of Museums</h1>
           <nav>
