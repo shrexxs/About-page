@@ -7,7 +7,7 @@ export const Hero =() => {
           <div className="relative ">
          <video 
               className="w-full h-auto max-h-[500px] mx-auto mb-8" 
-            src="museomate\public\museo.mp4" 
+            src="/museo.mp4" 
             autoPlay 
             loop 
           />
